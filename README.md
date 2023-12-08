@@ -12,5 +12,5 @@ fahadhos/fahadhos is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahadhos&theme=vision_friendly_dark)
-Markdown Usage
+ 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahadhos&theme=vision_friendly_dark)
