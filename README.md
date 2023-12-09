@@ -5,18 +5,32 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fahadhosk@gmail.com
 
-<div align='center'>
+
+## 📭: Reach me out
+
+<br />
+
+[<p align="center"><img height="75" src="https://github.com/fahadhos/fahadhos/blob/main/images/linkedin.png">](https://www.linkedin.com/in/fahadhos/)
+
+<br />
 
 
+## ⚙: Technology I Know
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,js,html,css,react,tailwind,netlify,vercel,cpp&perline=3" />
+  </a>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fahadhos&theme=radical)](https://git.io/streak-stats)
 
-<!---
-fahadhos/fahadhos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📈: Current Stats
 
+<br />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=fahadhos&theme=radical" alt="GitHub Streak" />
+</p>
+ 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahadhos&theme=vision_friendly_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahadhos&theme=vision_friendly_dark)
-</div>
+
