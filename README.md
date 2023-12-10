@@ -35,5 +35,5 @@
 - 👋 Hi, I’m Fahad Hossain
 - 👀 I’m interested in innovation and technology
 - 🌱 I’m currently learning ReactJs, JS,C++ , HTML, etc...
-- <img height="75" src="https://github.com/fahadhos/fahadhos/blob/main/images/collaboration.png"> I’m looking to collaborate on open source contribution
+- <img height="25" src="https://github.com/fahadhos/fahadhos/blob/main/images/collaboration.png"> I’m looking to collaborate on open source contribution
 - 📫 How to reach me fahadhosk@gmail.com
