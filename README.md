@@ -1,5 +1,5 @@
 
- <a href="https://www.linkedin.com/in/fahadhos">
+ <a align='center' href="https://www.linkedin.com/in/fahadhos">
 <img src="https://github.com/fahadhos/fahadhos/blob/main/images/banner_v3.mp4/" />
 </a>
 
