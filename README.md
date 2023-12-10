@@ -1,6 +1,6 @@
 
  <a href="https://www.linkedin.com/in/fahadhos">
-<img src="https://github.com/fahadhos/fahadhos/blob/main/images/banner_v2.gif/" />
+<img src="https://github.com/fahadhos/fahadhos/blob/main/images/banner_v3.mp4/" />
 </a>
 
 ## 📭: Reach me out
