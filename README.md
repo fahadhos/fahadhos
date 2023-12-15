@@ -31,8 +31,15 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahadhos&theme=vision_friendly_dark) -->
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=fahadhos" alt="GitHub-Trophy" />
+</p>
+
+ 
+
 ## 👀:Current Overview
-- 👋 Hi, I’m Fahad Hossain
+- 👋 Hi, I’m <p  ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&random=false&width=435&lines=Fahad+Hossain" alt="Typing SVG" /></p>
+
 - 👀 I’m interested in innovation and technology
 - 🌱 I’m currently learning ReactJs, JS,C++ , HTML, etc...
 - <img height="25" src="https://github.com/fahadhos/fahadhos/blob/main/images/collaboration.png"> I’m looking to collaborate on open source contribution
