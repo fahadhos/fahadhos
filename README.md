@@ -42,10 +42,12 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=fahadhos&color=FAC151)
 
 
--  <div style="display:flex; align-items:center; text-align:left"> <p>👋 Hi, I’m
+-  <span style="display:flex;"> <p>👋 Hi, I’m
 </p>
-<a href="#"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=11BCF7&background=71717100&random=false&width=435&lines=Fahad+Hossain" alt="Typing SVG" /></a>
-</div>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=11BCF7&background=71717100&random=false&width=435&lines=Fahad+Hossain" alt="Typing SVG" />
+ 
+</span>
+
 - 👀 I’m interested in innovation and technology
 - 🌱 I’m currently learning ReactJs, JS,C++ , HTML, etc...
 - <img height="25" src="https://github.com/fahadhos/fahadhos/blob/main/images/collaboration.png"> I’m looking to collaborate on open source contribution
