@@ -11,8 +11,10 @@
  
 [<img height="75" src="https://github.com/fahadhos/fahadhos/blob/main/images/linkedin.png">](https://www.linkedin.com/in/fahadhos/)
 
-
 [<img height="75"  src="https://skillicons.dev/icons?i=gmail&perline=4">](fahadhosk@gmail.com)
+
+[<p align="center"><img height="75" src="https://github.com/fahadhos/fahadhos/blob/main/images/linkedin.png" >](https://www.linkedin.com/in/fahadhos/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://skillicons.dev/icons?i=gmail&perline=4"> </p>](fahadhosk@gmail.com)
+
  
 </div></div>
 
