@@ -9,11 +9,8 @@
 <div align="center">
 <div style="display: flex;">
  
-[<img height="75" src="https://github.com/fahadhos/fahadhos/blob/main/images/linkedin.png">](https://www.linkedin.com/in/fahadhos/)
 
-[<img height="75"  src="https://skillicons.dev/icons?i=gmail&perline=4">](fahadhosk@gmail.com)
-
-[<p align="center"><img height="75" src="https://github.com/fahadhos/fahadhos/blob/main/images/linkedin.png" >](https://www.linkedin.com/in/fahadhos/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://skillicons.dev/icons?i=gmail&perline=4"> </p>](fahadhosk@gmail.com)
+[<p align="center"><img height="75" src="https://github.com/fahadhos/fahadhos/blob/main/images/linkedin.png" >](https://www.linkedin.com/in/fahadhos/)[<img height="75" src="https://skillicons.dev/icons?i=gmail&perline=4"> </p>](fahadhosk@gmail.com)
 
  
 </div></div>
@@ -59,6 +56,6 @@
 </span>
 
 - 👀 I’m interested in innovation and technology
-- 🌱 I’m currently learning ReactJs, JS,C++ , HTML, etc...
+- 🌱 I’m currently learning ReactJs, JS,C++,DaisyUi,Tailwindcss, HTML, etc...
 - <img height="25" src="https://github.com/fahadhos/fahadhos/blob/main/images/collaboration.png"> I’m looking to collaborate on open source contribution
 - 📫 How to reach me fahadhosk@gmail.com
