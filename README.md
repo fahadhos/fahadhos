@@ -6,14 +6,16 @@
 ## 📭: Reach me out
 
 <br />
+<div align="center">
 <div style="display: flex;">
  
-[<p align="center"><img height="75" src="https://github.com/fahadhos/fahadhos/blob/main/images/linkedin.png">](https://www.linkedin.com/in/fahadhos/)
+[<img height="75" src="https://github.com/fahadhos/fahadhos/blob/main/images/linkedin.png">](https://www.linkedin.com/in/fahadhos/)
 
 
-[  <img height="75"  src="https://skillicons.dev/icons?i=gmail&perline=4">](fahadhosk@gmail.com)
+[<img height="75"  src="https://skillicons.dev/icons?i=gmail&perline=4">](fahadhosk@gmail.com)
  
-</div>
+</div></div>
+
 
 <br />
 
