@@ -12,7 +12,7 @@
  
 
 <a href="https://www.linkedin.com/in/fahadhos/" target="_blank"  > <img height="65" src="https://github.com/fahadhos/fahadhos/blob/main/images/linkedin.png" ></a>
-<a href="fahadhosk@gmail.com" target="_blank"  ><img height="65" src="https://skillicons.dev/icons?i=gmail&perline=4"></a>
+ [<img height="65" src="https://skillicons.dev/icons?i=gmail&perline=4">](fahadhosk@gmail.com)
 
  
 </div>
