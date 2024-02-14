@@ -9,22 +9,20 @@
 <div align="center">
 <div style="display: flex;">
  
+ 
 
-[<p align="center"><img height="75" src="https://github.com/fahadhos/fahadhos/blob/main/images/linkedin.png" >](https://www.linkedin.com/in/fahadhos/)
+[<p align="center"><a href="https://www.linkedin.com/in/fahadhos/" target="_blank"> <img height="65" src="https://github.com/fahadhos/fahadhos/blob/main/images/linkedin.png" ></a>]
 [<img height="75" src="https://skillicons.dev/icons?i=gmail&perline=4"> </p>](fahadhosk@gmail.com)
 
  
 </div>
 </div>
 
-### Support or Contact
-
-👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](nakul.bhati@yahoo.in)
-
+ 
 ####
 
-<[comment]: <>  a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30"></a>
-[comment]: <> <a href="https://twitter.com/local__tourist" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>
+[comment]: <>  (<a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30"></a>)
+[comment]: <> (<a href="https://twitter.com/local__tourist" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>)
 [comment]: <> <a href="https://www.instagram.com/local__tourist/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/ig.png" alt="Instagram" width="30"></a>
 [comment]: <> <a href="https://www.linkedin.com/in/kunwar-nakul-singh-bhati/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/fahadhos" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>
