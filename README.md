@@ -38,6 +38,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahadhos&theme=vision_friendly_dark) -->
 
+
+## 🏆: Current Trophies 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=fahadhos" alt="GitHub-Trophy" />
 </p>
@@ -49,9 +51,7 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=fahadhos&color=FAC151)
 
 
--  <span style="display:flex;"> <p>👋 Hi, I’m
-</p>
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=11BCF7&background=71717100&random=false&width=435&lines=Fahad+Hossain" alt="Typing SVG" />
+-  <span style="display:flex;"> <p>👋 Hi, I’m <span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=11BCF7&background=71717100&random=false&width=435&lines=Fahad+Hossain" alt="Typing SVG" /></span> </p>
  
 </span>
 
