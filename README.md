@@ -18,8 +18,6 @@
 </div>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadhos&color=brightgreen" alt="fahadhos" /> </p>
-<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=fahadhos&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhos&theme=merko&layout=compact&hide_langs_below=1" /></p> 
 ####
 [//]: <> (This is also a comment.)
 [//]: <>  (<a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30"></a>)
@@ -64,7 +62,8 @@
 
 ## 👀:Current Overview
 
-![GitHub Views](https://komarev.com/ghpvc/?username=fahadhos&color=FAC151)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadhos&color=brightgreen" alt="fahadhos" /> </p>
 
 
 -  <span style="display:flex;"> <p>👋 Hi, I’m <span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=11BCF7&background=71717100&random=false&width=435&lines=Fahad+Hossain" alt="Typing SVG" /></span> </p>
@@ -75,3 +74,5 @@
 - 🌱 I’m currently learning ReactJs, JS,C++,DaisyUi,Tailwindcss, HTML, etc...
 - <img height="25" src="https://github.com/fahadhos/fahadhos/blob/main/images/collaboration.png"> I’m looking to collaborate on open source contribution
 - 📫 How to reach me fahadhosk@gmail.com
+
+<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=fahadhos&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhos&theme=merko&layout=compact&hide_langs_below=1" /></p> 
