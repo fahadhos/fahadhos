@@ -11,8 +11,8 @@
  
  
 
-[<a href="https://www.linkedin.com/in/fahadhos/" target="_blank"> <img height="65" src="https://github.com/fahadhos/fahadhos/blob/main/images/linkedin.png" ></a>]
-[<img height="75" src="https://skillicons.dev/icons?i=gmail&perline=4">](fahadhosk@gmail.com)
+<a href="https://www.linkedin.com/in/fahadhos/" target="_blank"  > <img height="65" src="https://github.com/fahadhos/fahadhos/blob/main/images/linkedin.png" ></a>
+<a href="fahadhosk@gmail.com" target="_blank"  ><img height="65" src="https://skillicons.dev/icons?i=gmail&perline=4"></a>
 
  
 </div>
