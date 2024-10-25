@@ -68,23 +68,23 @@
   <br>
   -->
   <a href="[https://codeforces.com/profile/fahadhos.me](https://codeforces.com/profile/Fahadhos)">
-    <img src="https://raw.githubusercontent.com/fahadhos/cfstats/main/output/rating.svg" alt="codeforce rating" />
+    <img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/rating.svg" alt="codeforce rating" />
   </a>
   <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/fahadhos?theme=light&font=Karma&ext=contest" />
    
-<img height="280em" src="https://raw.githubusercontent.com/fahadhos/cfstats/main/output/light_card.svg" />
+<img height="280em" src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/light_card.svg" />
 </p>
 
 
-<a href="https://github.com/fahadhos/cfstats">
-<img src="https://raw.githubusercontent.com/fahadhos/cfstats/main/output/light_card.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/fahadhos/cfstats/main/output/light_card.svg" />
+<a href="https://github.com/fahadhos/cf-stats">
+<img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/light_card.svg" />
 </a>
 <br/>
-<a href="https://github.com/fahadhos/cfstats">
-<img src="https://raw.githubusercontent.com/fahadhos/cfstats/main/output/max_rating.svg" />
-<img src="https://raw.githubusercontent.com/fahadhos/cfstats/main/output/rating.svg" />
+<a href="https://github.com/fahadhos/cf-stats">
+<img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/max_rating.svg" />
+<img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/rating.svg" />
 </a>
  
 </p>
