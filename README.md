@@ -62,12 +62,12 @@
 <p align="center"> 
 
   <!--
-  <a href="https://leetcode.com/sudiptob2/">
+  <a href="https://leetcode.com/fahadhos/">
     <img src="https://cp-logo.vercel.app/leetcode/fahadhos" alt="Leet code rating" />
   </a>
   -->
   <a href="https://codeforces.com/profile/fahadhos.me">
-    <img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+    <img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/rating.svg" alt="codeforce rating" />
   </a>
  
 </p>
