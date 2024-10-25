@@ -33,7 +33,7 @@
 <br />
 
 
-## ⚙: Technology I Know
+## ⚙: Technology exploring
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,js,html,css,react,tailwind,netlify,vercel,vscode,cpp&perline=4" />
@@ -65,28 +65,11 @@
   <a href="[https://leetcode.com/fahadhos/](https://leetcode.com/u/fahadhos/)">
     <img src="https://cp-logo.vercel.app/leetcode/fahadhos" alt="Leet code rating" />
   </a>
-  <br>
-  -->
-  <a href="[https://codeforces.com/profile/fahadhos.me](https://codeforces.com/profile/Fahadhos)">
-    <img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/rating.svg" alt="codeforce rating" />
-  </a>
-  <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/fahadhos?theme=light&font=Karma&ext=contest" />
-   
-<img height="280em" src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/light_card.svg" />
+ <p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
 </p>
 
-
-<a href="https://github.com/fahadhos/cf-stats">
- 
-<img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/light_card.svg" />
-</a>
-<br/>
-<a href="https://github.com/fahadhos/cf-stats">
-<img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/max_rating.svg" />
-<img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/rating.svg" />
-</a>
- 
 </p>
  
 
