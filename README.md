@@ -60,8 +60,8 @@
 
 <img height="143em"   src="https://leetcard.jacoblin.cool/fahadhos?theme=light&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/light_card.svg" />
-## CodeChef Stats
-<a href="https://www.codechef.com/users/fahadhos"><img height="280em" src="https://img.shields.io/badge/CodeChef-1%20Star-orange?style=for-the-badge&logo=codechef"/></a>
+ 
+<a href="https://www.codechef.com/users/fahadhos"><img  src="https://img.shields.io/badge/CodeChef-1%20Star-orange?style=for-the-badge&logo=codechef"/></a>
 
  
 </p>
