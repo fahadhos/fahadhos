@@ -59,14 +59,13 @@
 </p>
 
 ## Problem solving journey:
-<p align="center">
-<img src="https://run.kaist.ac.kr/badges/codeforces/fahadhos.svg"/>
+<p align="center"> 
  <a href="https://github.com/fahadhos/cf-stats">
 <img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/light_card.svg" />
 </a>
 <br/>
-<a href="https://github.com/sudiptob2/cf-stats">
+<a href="https://github.com/fahadhos/cf-stats">
 <img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/max_rating.svg" />
 <img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/rating.svg" />
 </a>
