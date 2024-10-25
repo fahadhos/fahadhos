@@ -68,7 +68,7 @@
   <br>
   -->
   <a href="[https://codeforces.com/profile/fahadhos.me](https://codeforces.com/profile/Fahadhos)">
-    <img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/rating.svg" alt="codeforce rating" />
+    <img src="https://raw.githubusercontent.com/fahadhos/cfstats/main/output/rating.svg" alt="codeforce rating" />
   </a>
   <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/fahadhos?theme=light&font=Karma&ext=contest" />
