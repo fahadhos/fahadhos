@@ -58,7 +58,7 @@
  <p float="left">
  
 
-<img height="273em" width="120em" src="https://leetcard.jacoblin.cool/fahadhos?theme=light&font=Karma&ext=contest" />
+<img height="243em"   src="https://leetcard.jacoblin.cool/fahadhos?theme=light&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/light_card.svg" />
 </p>
  
