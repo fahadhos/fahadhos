@@ -56,10 +56,7 @@
 ## Problem-solving journey:
  
  <p float="left">
-  
-  <a href="[https://leetcode.com/fahadhos/](https://leetcode.com/u/fahadhos/)">
-    <img src="https://cp-logo.vercel.app/leetcode/fahadhos" alt="Leet code rating" />
-  </a>
+ 
 
 <img height="273em" src="https://leetcard.jacoblin.cool/fahadhos?theme=light&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/light_card.svg" />
