@@ -78,7 +78,7 @@
 
 
 <a href="https://github.com/fahadhos/cf-stats">
-<img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+ 
 <img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/light_card.svg" />
 </a>
 <br/>
