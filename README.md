@@ -58,8 +58,10 @@
 <img src="https://github-profile-trophy.vercel.app/?username=fahadhos" alt="GitHub-Trophy" />
 </p>
 
- 
-
+## Problem solving journey:
+<p align="center">
+<img src="https://run.kaist.ac.kr/badges/codeforces/fahadhos.svg"/>
+</p>
 ## 👀:Current Overview
 
 
