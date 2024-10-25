@@ -60,15 +60,16 @@
 
 ## Problem solving journey:
 <p align="center"> 
- <a href="https://github.com/fahadhos/cf-stats">
-<img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/light_card.svg" />
-</a>
-<br/>
-<a href="https://github.com/fahadhos/cf-stats">
-<img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/max_rating.svg" />
-<img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/rating.svg" />
-</a>
+
+  <!--
+  <a href="https://leetcode.com/sudiptob2/">
+    <img src="https://cp-logo.vercel.app/leetcode/fahadhos" alt="Leet code rating" />
+  </a>
+  -->
+  <a href="https://codeforces.com/profile/fahadhos.me">
+    <img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+  </a>
+ 
 </p>
 
 ## 👀:Current Overview
