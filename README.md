@@ -53,25 +53,26 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahadhos&theme=vision_friendly_dark) -->
 
 
+## Problem-solving journey:
+ 
+ <p float="left">
+  <!--
+  <a href="[https://leetcode.com/fahadhos/](https://leetcode.com/u/fahadhos/)">
+    <img src="https://cp-logo.vercel.app/leetcode/fahadhos" alt="Leet code rating" />
+  </a>
+
+<img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
+ 
+
+</p>
+ 
+
 ## 🏆: Current Trophies 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=fahadhos" alt="GitHub-Trophy" />
 </p>
 
-## Problem-solving journey:
-<p align="left"> 
-
-  <!--
-  <a href="[https://leetcode.com/fahadhos/](https://leetcode.com/u/fahadhos/)">
-    <img src="https://cp-logo.vercel.app/leetcode/fahadhos" alt="Leet code rating" />
-  </a>
- <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
-</p>
-
-</p>
- 
 
 
 ## 👀:Current Overview
