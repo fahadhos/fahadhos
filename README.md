@@ -58,19 +58,26 @@
 <img src="https://github-profile-trophy.vercel.app/?username=fahadhos" alt="GitHub-Trophy" />
 </p>
 
-## Problem solving journey:
+## Problem-solving journey:
 <p align="center"> 
 
   <!--
-  <a href="https://leetcode.com/fahadhos/">
+  <a href="[https://leetcode.com/fahadhos/](https://leetcode.com/u/fahadhos/)">
     <img src="https://cp-logo.vercel.app/leetcode/fahadhos" alt="Leet code rating" />
   </a>
+  <br>
   -->
-  <a href="https://codeforces.com/profile/fahadhos.me">
+  <a href="[https://codeforces.com/profile/fahadhos.me](https://codeforces.com/profile/Fahadhos)">
     <img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/rating.svg" alt="codeforce rating" />
   </a>
  
 </p>
+## Competitive Programming
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/fahadhos?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/light_card.svg" />
+</p>
+
 
 ## 👀:Current Overview
 
