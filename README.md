@@ -59,7 +59,7 @@
 </p>
 
 ## Problem-solving journey:
-<p align="center"> 
+<p align="left"> 
 
   <!--
   <a href="[https://leetcode.com/fahadhos/](https://leetcode.com/u/fahadhos/)">
@@ -70,13 +70,15 @@
   <a href="[https://codeforces.com/profile/fahadhos.me](https://codeforces.com/profile/Fahadhos)">
     <img src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/rating.svg" alt="codeforce rating" />
   </a>
- 
-</p>
-## Competitive Programming
-<p float="left">
+  <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/fahadhos?theme=light&font=Karma&ext=contest" />
+   
 <img height="280em" src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/light_card.svg" />
 </p>
+
+ 
+</p>
+ 
 
 
 ## 👀:Current Overview
