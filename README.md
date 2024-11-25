@@ -1,4 +1,5 @@
- <span style="font-family: 'times new roman';">foo</span>
+<span style="font-family: 'Times New Roman';">This is styled in Times New Roman.</span>
+
  <a align='center' href="https://www.linkedin.com/in/fahadhos">
 <img src="https://github.com/fahadhos/fahadhos/blob/main/images/banner_v2.gif/" />
 </a>
