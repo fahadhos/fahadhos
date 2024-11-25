@@ -1,6 +1,4 @@
-*{
- font-family: 'Lucida Console';
-}
+ <span style="font-family: 'Lucida Console';">foo</span>
  <a align='center' href="https://www.linkedin.com/in/fahadhos">
 <img src="https://github.com/fahadhos/fahadhos/blob/main/images/banner_v2.gif/" />
 </a>
