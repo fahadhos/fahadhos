@@ -1,4 +1,4 @@
- <span style="font-family: 'Lucida Console';">foo</span>
+ <span style="font-family: 'times new roman';">foo</span>
  <a align='center' href="https://www.linkedin.com/in/fahadhos">
 <img src="https://github.com/fahadhos/fahadhos/blob/main/images/banner_v2.gif/" />
 </a>
