@@ -91,3 +91,6 @@
 - 📫 How to reach me fahadhosk@gmail.com
 
 <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=fahadhos&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhos&theme=merko&layout=compact&hide_langs_below=1" /></p> 
+
+## Thanks For Visiting
+<a href="https://info.flagcounter.com/vUEK"><img src="https://s01.flagcounter.com/count2/vUEK/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_30/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
