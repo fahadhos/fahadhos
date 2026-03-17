@@ -53,6 +53,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahadhos&theme=vision_friendly_dark) -->
 
+## 🏆 Achievements
+🏅 ICPC Dhaka Regional Online Preliminary 2020 — Global Rank: 1119 (Team: IIUC_Bug Is FAT)
 
 ## Problem-solving journey:
  
