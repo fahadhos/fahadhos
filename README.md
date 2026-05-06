@@ -32,7 +32,12 @@
 
 
 <br />
+## 🎨 UI/UX Case Study
 
+🚀 **Global Rent Buddy – SaaS Design for Landlords**
+
+🔗 View full project on Behance:  
+👉 [View on Behance](https://www.behance.net/gallery/248851247/Global-rent-buddy)
 
 ## ⚙: Technology exploring
 <p align="center">
