@@ -105,7 +105,7 @@
 If you find my projects useful and would like to support my development journey, you can scan the QR code below.
 
 <p align="center">
-  <img src="./assets/bkash-qr.png" alt="bKash QR Code" width="250">
+  <img src="https://github.com/fahadhos/fahadhos/blob/main/images/bkash-qr.png" alt="bKash QR Code" width="250">
 </p>
 
 **bKash Number:** `01818436420`
