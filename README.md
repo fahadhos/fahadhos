@@ -1,117 +1,141 @@
- 
-
- <a align='center' href="https://www.linkedin.com/in/fahadhos">
-<img src="https://github.com/fahadhos/fahadhos/blob/main/images/banner_v2.gif/" />
-</a>
-
-## 📭: Reach me out
-
-<br />
 <div align="center">
-<div style="display: flex;">
- 
- [//]: <> (This is also a comment.)
-
-<a href="https://www.linkedin.com/in/fahadhos/" target="_blank"  > <img height="65" src="https://github.com/fahadhos/fahadhos/blob/main/images/linkedin.png" ></a>
- [<img height="65" src="https://skillicons.dev/icons?i=gmail&perline=4">](mailto:fahadhosk@gmail.com)
-
- 
-</div>
-</div>
-
-####
-[//]: <> (This is also a comment.)
-[//]: <>  (<a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30"></a>)
-[//]: <> (<a href="https://twitter.com/local__tourist" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>)
-[//]: <> (<a href="https://www.instagram.com/local__tourist/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/ig.png" alt="Instagram" width="30"></a>)
-[//]: <> (<a href="https://www.linkedin.com/in/fahadhos/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>)
-[//]: <> (<a href="https://github.com/fahadhos" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>)
-[//]: <> (<a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>)
-
-
-
-
-<br />
-## 🎨 UI/UX Case Study
-
-🚀 **Global Rent Buddy – SaaS Design for Landlords**
-
-🔗 View full project on Behance:  
-👉 [View on Behance](https://www.behance.net/gallery/248851247/Global-rent-buddy)
-
-## ⚙: Technology exploring
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,js,html,css,react,tailwind,netlify,vercel,vscode,cpp&perline=4" />
+  <a href="https://www.linkedin.com/in/fahadhos">
+    <img src="https://github.com/fahadhos/fahadhos/blob/main/images/banner_v2.gif" alt="Fahad's Banner" width="100%" />
   </a>
-</p>
-
-
-## 📈: Current Stats
+</div>
 
 <br />
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=fahadhos&theme=radical" alt="GitHub Streak" />
-</p>
- 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahadhos&theme=vision_friendly_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahadhos&theme=vision_friendly_dark) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=11BCF7&background=71717100&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Fahad+Hossain;Software+Engineer+%2F+Designer" alt="Typing SVG" />
+</div>
 
-## 🏆 Achievements
-🏅 ICPC Dhaka Regional Online Preliminary 2020 — Global Rank: 1119 (Team: IIUC_Bug Is FAT)
+---
 
-## Problem-solving journey:
- 
- <p float="left">
- 
+### 👤 About Me
 
-<img height="143em"   src="https://leetcard.jacoblin.cool/fahadhos?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/light_card.svg" />
- 
-<a href="https://www.codechef.com/users/fahadhos"><img  src="https://img.shields.io/badge/CodeChef-1%20Star-orange?style=for-the-badge&logo=codechef"/></a>
+- 💻 **Passionate Developer** interested in building cutting-edge technical innovations and sleek software solutions.
+- 🚀 **Currently building & mastering:** JavaScript, React, Node.js, and Python workflows.
+- 🤝 **Open Source:** Looking forward to collaborating on impactful software engineering and UI/UX projects.
+- 📬 **Reach out:** Let's build something awesome together! 
 
- 
-</p>
- 
+<div align="center">
+  <a href="https://www.linkedin.com/in/fahadhos/" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fahadhosk@gmail.com">
+    <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
-## 🏆: Current Trophies 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fahadhos" alt="GitHub-Trophy" />
-</p>
+---
 
+### 🛠️ Tech Stack & Tools
 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,cpp,html,css,tailwind,git,github,vscode,vercel,netlify&perline=7" alt="My Skills" />
+  </a>
+</div>
 
-## 👀:Current Overview
+---
 
+### 🎨 Portfolio & Writing
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadhos&color=brightgreen" alt="fahadhos" /> </p>
+#### 🚀 UI/UX Case Study
+* **Global Rent Buddy – SaaS Design for Landlords**
+* 🔗 *View the full presentation and user experience workflows over on Behance:* 👉 **[View Case Study on Behance](https://www.behance.net/gallery/248851247/Global-rent-buddy)**
 
+#### ✍️ Technical Articles & Blogs
+*📄 Sharing my deep-dives, development tips, and engineering concepts on Medium:*
+* 📌 **[Your First Blog Title Here](https://medium.com/@yourusername/your-blog-slug)** — *Brief one-sentence catchy description.*
+* 📌 **[Your Second Blog Title Here](https://medium.com/@yourusername/your-blog-slug)** — *Brief one-sentence catchy description.*
+* 📌 **[Your Third Blog Title Here](https://medium.com/@yourusername/your-blog-slug)** — *Brief one-sentence catchy description.*
 
--  <span style="display:flex;"> <p>👋 Hi, I’m <span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=11BCF7&background=71717100&random=false&width=435&lines=Fahad+Hossain" alt="Typing SVG" /></span> </p>
- 
-</span>
+---
 
-- 👀 I’m interested in innovation and technology
-- 🌱 I’m currently learning ReactJs, JS,C++,DaisyUi,Tailwindcss, HTML, etc...
-- <img height="25" src="https://github.com/fahadhos/fahadhos/blob/main/images/collaboration.png"> I’m looking to collaborate on open source contribution
-- 📫 How to reach me fahadhosk@gmail.com
+### 🏆 Achievements & Problem Solving
 
-<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=fahadhos&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhos&theme=merko&layout=compact&hide_langs_below=1" /></p> 
+* 🏅 **ICPC Dhaka Regional Online Preliminary 2020** — Global Rank: **1119** (Team: `IIUC_Bug Is FAT`)
 
+<br />
 
-## ☕ Support My Work
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://leetcode.com/fahadhos">
+          <img height="150" src="https://leetcard.jacoblin.cool/fahadhos?theme=radical&font=Karma&ext=contest" alt="LeetCode Stats" />
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://codeforces.com/profile/fahadhos">
+          <img height="150" src="https://raw.githubusercontent.com/fahadhos/cf-stats/main/output/dark_card.svg" alt="Codeforces Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <br />
+  
+  <a href="https://www.codechef.com/users/fahadhos">
+    <img src="https://img.shields.io/badge/CodeChef-1%20Star-orange?style=for-the-badge&logo=codechef" alt="Codechef Badge" />
+  </a>
+</div>
 
-If you find my projects useful and would like to support my development journey, you can scan the QR code below.
+---
 
-<p align="center">
-  <img src="https://github.com/fahadhos/fahadhos/blob/main/images/bkash-qr.png" alt="bKash QR Code" width="250">
-</p>
+### 📊 GitHub Ecosystem & Performance
 
-**bKash Number:** `01818436420`
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fahadhos&theme=radical&column=7&margin-w=15" alt="GitHub Trophies" />
+</div>
 
-Thank you for your support ❤️
+<br />
 
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=fahadhos&show_icons=true&theme=radical&count_private=true" alt="Fahad's GitHub Stats" width="400" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhos&theme=radical&layout=compact&hide_langs_below=1" alt="Top Languages" width="400" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <br />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=fahadhos&theme=radical" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-## Thanks For Visiting
-<a href="https://info.flagcounter.com/vUEK"><img src="https://s01.flagcounter.com/count2/vUEK/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_30/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+---
+
+### ☕ Support My Work
+
+If you find my tools, templates, or competitive programming contributions helpful, feel free to support my journey! 🚀
+
+<div align="center">
+  <img src="https://github.com/fahadhos/fahadhos/blob/main/images/bkash-qr.png" alt="bKash QR Code" width="220" style="border-radius: 10px;" />
+  <br />
+  <strong>bKash Personal:</strong> <code>01818436420</code>
+  <br />
+  <p>Thank you for fueling the midnight coding sessions! ❤️</p>
+</div>
+
+---
+
+<div align="center">
+  <h5>Thanks For Visiting!</h5>
+  
+  <img src="https://komarev.com/ghpvc/?username=fahadhos&color=11BCF7&style=flat-square" alt="Profile Views" />
+  
+  <br /><br />
+  
+  <a href="https://info.flagcounter.com/vUEK">
+    <img src="https://s01.flagcounter.com/count2/vUEK/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_30/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0" />
+  </a>
+</div>
