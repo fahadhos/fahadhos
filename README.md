@@ -90,7 +90,8 @@
 ### 📊 GitHub Ecosystem & Performance
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fahadhos&theme=radical&column=7&margin-w=15" alt="GitHub Trophies" />
+ <!-- <img src="https://github-profile-trophy.vercel.app/?username=fahadhos&theme=radical&column=7&margin-w=15" alt="GitHub Trophies" />
+  -->
 </div>
 
 <br />
