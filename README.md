@@ -7,7 +7,8 @@
 <br />
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=21&duration=4996&pause=1000&color=1278D1&width=435&lines=Hi+there!%F0%9F%91%8B;I'm+Fahad+Hossain+%7C%7C+Software+Developer;Aspiring+SaaS+Founder;Machine+Learning+Researcher)](https://git.io/typing-svg)</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=21&duration=4996&pause=1000&color=1278D1&width=435&lines=Hi+there!%F0%9F%91%8B;I'm+Fahad+Hossain+%7C%7C+Software+Developer;Aspiring+SaaS+Founder;Machine+Learning+Researcher" alt="Typing SVG" /></a>
+</div>
 
 ---
 
