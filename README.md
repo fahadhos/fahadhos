@@ -116,7 +116,7 @@
 
 ---
 
-### ☕ Support My Work
+<!-- ### ☕ Support My Work
 
 If you find my tools, templates, or competitive programming contributions helpful, feel free to support my journey! 🚀
 
@@ -127,7 +127,7 @@ If you find my tools, templates, or competitive programming contributions helpfu
   <br />
   <p>Thank you for fueling the midnight coding sessions! ❤️</p>
 </div>
-
+-->
 ---
 
 <div align="center">
