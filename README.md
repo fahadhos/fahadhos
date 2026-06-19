@@ -48,9 +48,11 @@
 
 #### ✍️ Technical Articles & Blogs
 *📄 Sharing my deep-dives, development tips, and engineering concepts on Medium:*
-* 📌 **[Your First Blog Title Here](https://medium.com/@yourusername/your-blog-slug)** — *Brief one-sentence catchy description.*
+* 📌 **[আয়, শিক্ষা ও উন্নতির গোলকধাঁধা](https://medium.com/@fahadhos/আয়-শিক্ষা-ও-উন্নতির-গোলকধাঁধা-4a3bc09d91c1)** 
+<!-- 
 * 📌 **[Your Second Blog Title Here](https://medium.com/@yourusername/your-blog-slug)** — *Brief one-sentence catchy description.*
 * 📌 **[Your Third Blog Title Here](https://medium.com/@yourusername/your-blog-slug)** — *Brief one-sentence catchy description.*
+-->
 
 ---
 
